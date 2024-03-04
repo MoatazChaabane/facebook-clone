@@ -2,12 +2,15 @@ import React from 'react'
 import './Header.css'
 function Header() {
   return (
-    <div className='header'>Header
-    <div className='header_left'></div>
+    <div className='header'>
+    <div className='header__left'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/900px-Facebook_Logo_%282019%29.png' alt='logo facebook'/>
 
-    <div className='header_right'></div>
+    </div>
+  
+    <div className='header__right'></div>
 
-    <div className='header_middle'></div>
+    <div className='header__middle'></div>
 
     
     </div>
