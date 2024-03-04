@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="a">
       <Header></Header>
-     <h1>Construisons Facebook ...</h1>
     </div>
   );
 }
